@@ -8,10 +8,10 @@
 
 ## 🔧 Tech Stack
 
-**Languages:** Python, SQL, JavaScript  
+**Languages:** Python, JavaScript 
 **Frameworks & Tools:** FastAPI, Flask, scikit-learn, OpenCV, Streamlit  
 **DevOps & CI/CD:** Docker, Docker Compose, DVC, Bitbucket Pipelines  
-**Other:** GeoPandas, rasterio, Google Maps API, Google Sheets API, PostGIS, Scrum, PRINCE2
+**Other:** GeoPandas, rasterio, PostGIS, Scrum, PRINCE2
 
 ---
 
